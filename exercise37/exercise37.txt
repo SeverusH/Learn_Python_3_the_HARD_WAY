@@ -1,0 +1,31 @@
+not
+  and
+  or
+  is
+continue
+  break
+*class
+  def
+    lambda
+    return
+    *yield
+if
+  elif
+  else
+  pass
+for
+  in
+  while
+try
+  *raise
+  except
+  *finally
+from
+  import
+print
+*global
+*exec
+*del
+*with
+*as
+*assert
