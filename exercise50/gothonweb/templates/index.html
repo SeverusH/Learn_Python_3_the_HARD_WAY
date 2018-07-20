@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Gothons Of Planet Percal #25</title>
+  </head>
+  <body>
+  {% if words['greeting'] %}
+    I just wanted to say
+    <em style="color: green; font-size: 2em;">{{ words['greeting'] }}</em>
+  {% else %}
+    <em>Hello</em>, wrold!
+  {% endif %}
+  </body>
+</html>
